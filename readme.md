@@ -1,5 +1,5 @@
 # My vimrc Settings
-This is a repository to save my vimrc settings and remind me of setup
+This is a repository for my vimrc settings. Along with initial setup for use.
 
 ## First install vim-plug
 `curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
